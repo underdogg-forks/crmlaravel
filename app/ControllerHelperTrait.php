@@ -191,6 +191,7 @@ trait ControllerHelperTrait
     $recordList->setPath($path);
     $recordListPagination=$recordList->appends($appendList)->render();
 
+
     if (!Request::has($submitName) && count($recordList) == 0)
       $recordList=null;
 

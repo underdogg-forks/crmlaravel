@@ -15,7 +15,7 @@
   <nav class="navbar navbar-default ui-state-default">
   	<div class="container-fluid">
   		<div class="navbar-header">
-  			<a class="navbar-brand" href="/">Lite CRM</a>
+  			<a class="navbar-brand" href="/">CatchUp CRM</a>
   		</div>
     </div>
   </nav>
